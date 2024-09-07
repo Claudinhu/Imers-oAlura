@@ -1,6 +1,6 @@
 
 
-# RIMAS EM 3 2 1 
+# RIMAS EM 3 2 1...RIMAS SCORE 
 
 ## Preparem-se para mergulhar no mundo das batalhas de Rima! É tipo um Hall da Fama, só que online e bem mais maneiro!
 
@@ -18,7 +18,6 @@ Usei as tecnologias mais tops para criar esse site:
 - HTML5: A base de tudo, a estrutura do site.
 - CSS3: Para estilização
 - JavaScript: A mágica por trás das buscas e da interação com o site.
-- 
 ## Quer colaborar?
 
 Se você é desenvolvedor e quer dar uma força, é só dar um fork nesse repositório e mandar ver! Se você é fã de rap e tem alguma informação nova, manda um pull request!
