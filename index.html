@@ -5,30 +5,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-16x16.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-32x32.png">
     <title>RimaScore</title>
 </head>
 
 <body>
-    <header>
-        <h1>Rimas Score</h1>
+    <header class="cabecalho">
+        <nav class="menu">
+            <img class="cabecalho-logo" src="assets/rimascore-logo.png" alt="logo do Rimas Score">
+            <a class="menu-item" href="">Home</a>
+            <a class="menu-item" href="">Sobre</a>
+            <a class="menu-item" href="">Git Hub</a>
+        </nav>
     </header>
+
     <main>
+        <section class="principal">
+            <div>
+                <h1 class="principal-h1">Conheça o RimaScore</h1>
+                <h3 class="principal-h2">Encontre informações sobre seu mc favorito de um jeito facil</h3>
+                <button class="principal-botão">Buscar MC</button>
+            </div>
+            <img src="assets/header-img.jpg" alt="jhony e guri comemorando">
+        </section>
+
         <section>
             <input type="text" placeholder="Digite o nome do artista" id="campo-pesquisa">
-            <button onclick="pesquisar()">Pesquisar</button>
-            <button class="mostrarTodos" onclick="mostrarTodos()">Mostrar Todos</button>
+            <button onclick="">Pesquisar</button>
+            <button class="mostrarTodos" onclick="">Mostrar Todos</button>
         </section>
+
         <section class="resultados-pesquisa"id="resultados-pesquisa">
+        </section>
+
+        <section class="Sobre">
+            <div class="principal-sobre">
+            <h2>Sobre</h2>
+            <p>Este site foi criado para celebrar e compartilhar a cultura das Batalhas de Rima, proporcionando um espaço dedicado à história e conquistas dos MCs que fizeram nome nesse cenário. Com um sistema de busca intuitivo, o usuário pode explorar informações detalhadas sobre seus MCs favoritos, incluindo nome, história, títulos conquistados e a batalha mais famosa de cada artista.
+            Nosso objetivo é oferecer uma plataforma que valorize os artistas que contribuem para o movimento da rima e do freestyle, permitindo que fãs e curiosos conheçam melhor as trajetórias e os momentos marcantes das batalhas. Seja você um entusiasta da cultura hip hop ou alguém que está começando a descobrir esse universo, aqui você encontrará uma rica fonte de informações sobre as estrelas das batalhas de rima.
+            </p>
+            </div>
+            <img src="assets/98c7b49476-3-anos.webp" alt="plateia feliz">
         </section>
     </main>
     <footer>
         <p>2024 - Rimas Score. Todos os direitos reservados</p>
         <p>Desenvolvido por Claudio Gabriel</p>
     </footer>
-    <script src="artistas.js"></script>
-    <script src="app.js"></script>
 </body>
 
 </html>

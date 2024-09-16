@@ -1,7 +1,7 @@
 let artistas = [
     {
         titulo : "Cesar Mc", 
-        imagem: "cesar-mc-icon.jpg",
+        imagem: "assets/cesar-mc-icon.jpg",
         alt: "cesar-icon",
         descricao : "César MC é um dos gigantes do freestyle no Brasil quando o assunto é agressividade nas rimas, conhecido por suas rimas complexas e improvisações ágeis. Sua influência na cena do rap brasileiro é inegável.",
         titulos : "Titulos: Campeão Nacional 2018 e 2x Campeão BDA de Trio Aniversario",
