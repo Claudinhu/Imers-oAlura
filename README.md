@@ -1,6 +1,3 @@
-
-## Preparem-se para mergulhar no mundo das batalhas de Rima! É tipo um Hall da Fama, só que online e bem mais maneiro!
-
 Criei esse site para que a gente possa guardar e encontrar todas as informações sobre os MCs mais brabos da batalha de rimas do brasil. 
 
 O que você pode fazer por aqui:
@@ -18,8 +15,6 @@ Usei as tecnologias:
 ## Quer colaborar?
 
 Se você é desenvolvedor e quer dar uma força, é só dar um fork nesse repositório e mandar ver! Se você é fã de rap e tem alguma informação nova, manda um pull request!
-
-Por enquanto a ideia ainda é pequena, mas talvez pode se tornar o maior banco de dados sobre batala de rimas do brasil!
 
 ##projeto segue em desenvolvimento...
 
